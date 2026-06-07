@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://c6wi21m4osqg5"
+path="res://.godot/imported/02 - Trey Travis - It Waits Between Thoughts.wav-442436230c7a546cc0e060932db70d85.sample"
+
+[deps]
+
+source_file="res://assets/02 - Trey Travis - It Waits Between Thoughts.wav"
+dest_files=["res://.godot/imported/02 - Trey Travis - It Waits Between Thoughts.wav-442436230c7a546cc0e060932db70d85.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
